@@ -2,6 +2,8 @@
 
 A simplistic RSS reader written mainly for education. (WIP)
 
+![](http://i.imgur.com/9uO2Mmw.png?1)
+
 ## Motivation
 
 I wrote this app mainly to:
